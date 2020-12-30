@@ -4,7 +4,7 @@ Unlike Quora or Stack-Overflow , Here only the specific expert about the particu
 
 Developed a full-stack web application using Java with JS
 
-#Technologies Used:
+# Technologies Used:
 
 Jsp
 
@@ -14,7 +14,7 @@ Html / Css
 
 Ajax BootStrap
 
-#How To Setup
+# How To Setup
 
 Initiate the project in Eclipse or any of your favourite IDE
 
