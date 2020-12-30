@@ -2,7 +2,7 @@
 
 Unlike Quora or Stack-Overflow , Here only the specific expert about the particular field can answer the question ,ensuring credibility of the answer
 
-Developed a full-stack web application using Java with JS
+Developed a full-stack web application using Java with JSP
 
 # Technologies Used:
 
